@@ -1,0 +1,8 @@
+Admin,123,Administrator
+chia,123,Student,Data Analysis
+Tim,123,Lecturer
+wong,123,Student,Game Development
+Tan,123,Student,Python Fundamental
+Cheng,123,Student,Software Engineering
+Eugene,123,Student,Java Fundamental
+chia1,123,Student,Java Fundamental
